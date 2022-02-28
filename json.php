@@ -8,7 +8,7 @@ echo json_encode([
             'link' => 'https://google.com',
             'image' => 'https://raw.githubusercontent.com/shengui919/feed-json/master/item.png',
             'date' => 'February 28, 2022',
-            'Content' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
+            'content' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
 tempore explicabo perspiciatis aspernatur quae quia mollitia quasi?
 Accusamus, tempore? Sit nihil ab nostrum dicta dolorum, aliquid est?
 Praesentium, modi quod. Dicta vel exercitationem accusamus, illo
@@ -32,7 +32,7 @@ distinctio voluptatum suscipit?',
             'link' => 'https://google.com',
             'image' => 'https://raw.githubusercontent.com/shengui919/feed-json/master/item.png',
             'date' => 'February 27, 2022',
-            'Content' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
+            'content' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
 tempore explicabo perspiciatis aspernatur quae quia mollitia quasi?
 Accusamus, tempore? Sit nihil ab nostrum dicta dolorum, aliquid est?
 Praesentium, modi quod. Dicta vel exercitationem accusamus, illo
