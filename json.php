@@ -4,6 +4,7 @@ echo json_encode([
     'status' => 'success',
     'feeds' => [
         'id' => 1,
+        'link' => 'https://google.com',
         'image' => 'https://raw.githubusercontent.com/shengui919/feed-json/master/item.png',
         'date' => 'February 28, 2022',
         'Content' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
@@ -27,6 +28,7 @@ distinctio voluptatum suscipit?',
     ],
     [
         'id' => 2,
+        'link' => 'https://google.com',
         'image' => 'https://raw.githubusercontent.com/shengui919/feed-json/master/item.png',
         'date' => 'February 27, 2022',
         'Content' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
