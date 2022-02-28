@@ -4,7 +4,7 @@ echo json_encode([
     'status' => 'success',
     'feeds' => [
         'id' => 1,
-        'image' => 'https://wallpaperaccess.com/full/1377110.jpg',
+        'image' => 'https://raw.githubusercontent.com/shengui919/feed-json/master/item.png',
         'date' => 'February 28, 2022',
         'Content' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
 tempore explicabo perspiciatis aspernatur quae quia mollitia quasi?
@@ -27,7 +27,7 @@ distinctio voluptatum suscipit?',
     ],
     [
         'id' => 2,
-        'image' => 'https://wallpaperaccess.com/full/1377110.jpg',
+        'image' => 'https://raw.githubusercontent.com/shengui919/feed-json/master/item.png',
         'date' => 'February 27, 2022',
         'Content' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
 tempore explicabo perspiciatis aspernatur quae quia mollitia quasi?
@@ -41,10 +41,9 @@ laborum. Quod animi consequatur officiis adipisci amet laudantium
 voluptas vitae nulla ratione itaque, ex eos voluptatem tempora modi
 distinctio voluptatum suscipit?',
         'tags' => [
-            ['title' => 'Event', 'link' => 'https://google.com'],
-            ['title' => 'Event1', 'link' => 'https://google.com']
+            ['title' => 'Event', 'link' => 'https://google.com']
         ],
-        'commentCount' => 23,
+        'commentCount' => 21,
         'commentLink' => 'https://google.com',
         'pinned' => true
     ]
